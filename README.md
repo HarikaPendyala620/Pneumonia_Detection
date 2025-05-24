@@ -14,3 +14,14 @@ Most existing Computer-Aided Diagnosis (CAD) systems rely on binary classificati
 - Visualization of prediction results
 
 ## 🗂️ Dataset
+[Chest X-Ray Images (Pneumonia) dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) 
+
+
+## 🛠️ Technologies Used
+
+- Python
+- TensorFlow / Keras
+- OpenCV
+- Matplotlib
+- NumPy
+
